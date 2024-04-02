@@ -17,6 +17,7 @@ function App() {
     setShowScores(false);
     setCorrectAnswers(0);
   }
+  
 
   return (
     <div className="app-container">
